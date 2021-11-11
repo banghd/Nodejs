@@ -1,3 +1,3 @@
 # Nodejs
-To run : yarn 
+To run : yarn |
 yarn dev
